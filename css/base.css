@@ -1,0 +1,13 @@
+:root{
+   --color-first: rgb(250, 211, 13);
+   --color-second:#4f0404fb;
+   --color-third:#d1eb0d;
+   --color-black-first:#101011f1;
+   --color-black-second:#2e2e2ef1;
+}
+
+body{
+   background-color:var(--color-black-second);
+   font-family:"Abril Fatface",cursiva;
+   font-size: medium;
+}

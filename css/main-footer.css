@@ -1,0 +1,16 @@
+.main-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.main-footer .logo{
+margin-bottom: 10px;
+}
+
+
+.main-footer.title{
+color: var(--color-white);
+font-size: 20px;
+
+}

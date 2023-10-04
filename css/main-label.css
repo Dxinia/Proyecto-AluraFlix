@@ -1,0 +1,7 @@
+.main-label{
+    display:block;
+    font: 400 25px 'Fira code',monospace;
+    color:var(--color-first);
+    text-align: center;
+   
+}

@@ -1,0 +1,16 @@
+.main-banner{
+    width: 100%;
+    max-height: 150px;
+    border: 3px solid var(--color-black-first);
+    box-shadow: 4px 4px 0px var(--color-third);
+    border-radius: 15px;
+    
+
+ 
+}
+.main-banner.imagen{
+   width: 100px;
+   height:auto;
+   padding: 2px;
+   
+}
